@@ -1,5 +1,5 @@
 # Movie-Recommender-System
-This projects describes the movie recommendations 
+This project describes the movie recommendations 
 
 
 
