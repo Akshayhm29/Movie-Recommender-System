@@ -43,6 +43,17 @@ Movie recommendation systems use a set of different filtration strategies and al
 
 
 
+
+
+
+
+Download a Datasets:
+
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+
+
 # Demo:
 
 
